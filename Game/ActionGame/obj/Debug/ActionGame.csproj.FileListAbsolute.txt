@@ -1,0 +1,14 @@
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\bin\Debug\ActionGame.exe.config
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\bin\Debug\ActionGame.exe
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\bin\Debug\ActionGame.pdb
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\MainWindow.g.cs
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\App.g.cs
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\ActionGame_MarkupCompile.cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\ActionGame_MarkupCompile.lref
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\MainWindow.baml
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\ActionGame.g.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\ActionGame.Properties.Resources.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\ActionGame.csproj.GenerateResource.Cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\ActionGame.exe
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\ActionGame.pdb
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\ActionGame\obj\Debug\ActionGame.csprojResolveAssemblyReference.cache

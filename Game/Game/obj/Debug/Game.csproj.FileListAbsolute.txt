@@ -1,0 +1,15 @@
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.pdb
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.Splash.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.startPage.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.GameArea.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.exe.manifest
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\bin\Debug\Game.application
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.exe.manifest
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\Game\Game\obj\Debug\Game.application
