@@ -1,0 +1,16 @@
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\bin\Debug\DiagnoseApp.exe.config
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\bin\Debug\DiagnoseApp.exe
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\bin\Debug\DiagnoseApp.pdb
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\DiagnoseApp.csprojResolveAssemblyReference.cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\MainWindow.g.cs
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\App.g.cs
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\DiagnoseApp_MarkupCompile.cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\DiagnoseApp_MarkupCompile.lref
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\MainWindow.baml
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\DiagnoseApp.g.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\DiagnoseApp.Properties.Resources.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\DiagnoseApp.csproj.GenerateResource.Cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\DiagnoseApp.exe
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\DiagnoseApp.pdb
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\MenuPage.g.cs
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\DiagnoseApp\DiagnoseApp\obj\Debug\MenuPage.baml

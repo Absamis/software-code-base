@@ -1,0 +1,31 @@
+﻿<Window x:Class="DiagnoseApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DiagnoseApp"
+        mc:Ignorable="d"
+        Title="ABSDiagnose" Height="300" Width="425" Background="Black"  WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <TextBlock Text="Gathering information" FontSize="17" FontWeight="Bold" Margin="12" Foreground="Blue" />
+            <TextBlock Text="Does the power comes on?" TextWrapping="Wrap" Foreground="White" FontSize="19" Name="questlbl" Margin="12, 0" />
+            <StackPanel Margin="12, 20">
+                
+            </StackPanel>
+        </StackPanel>
+        <Canvas Grid.Row="1">
+            <Button Content="Yes" Canvas.Left="10" Padding="13, 5" Foreground="White" Background="DarkGreen" Click="responseClicked" Name="Y" FontSize="15" Margin="7, 11" />
+            <Button Content="No" Padding="13, 5" Canvas.Left="70" Foreground="White" Background="DarkRed" Click="responseClicked" Name="N" FontSize="15" Margin="7, 11" />
+            <Button Content="Back" Padding="13, 5" Background="DarkOrange" Foreground="White" Canvas.Right="10" Name="back" Click="responseClicked" HorizontalAlignment="Right" FontSize="15" Margin="7, 11"/>
+            <!--<Button Content="Next" Padding="13, 5" Name="next" Click="next_Click" FontSize="15" Margin="7, 11"/>-->
+        </Canvas>
+    </Grid>
+</Window>
