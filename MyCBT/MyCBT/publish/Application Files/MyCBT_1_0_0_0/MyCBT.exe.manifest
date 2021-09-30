@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MyCBT.exe" version="1.0.0.0" publicKeyToken="70b8e6a571b0be5e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MyCBT" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MyCBT.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyCBT.exe" size="43488">
+      <assemblyIdentity name="MyCBT" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LmIFFdobIxqxkFV9uOYxjwNv4jb5tz55rIlD/kmJZ3M=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MyCBT.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-9UGU5IQ\Absam" issuerKeyHash="ef9031d8ba862bbfaad49d330ac90a6bc6d36c71" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>D0JUMredRbOzoiyETNt2zH4CTlSRYcGUzG//+cMhGpw=</DigestValue></Reference></SignedInfo><SignatureValue>bEktZimybBnsbhE/GtU0KKBuq3VxPwkVZK6xmNG8ZrB8wo7xjk3OzrHExg9SwWJ3Ck4r8BOno1YQbT9moiI6u8O29OyNEazUaZx7dGtnWR/6/oerBRRpKD3wqeaW+IJGW1hNzuXIteccd7gYsCE5dyXuiUlp+2H70RjNUGD7WFY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nDhQNcb47p3+fcFywwD0JTQ2kd2hryARG6WCZsC2zFON5hFyfXe93qzpJMOYx+b+zBQqzDev5lo5ty8YGOctstUVlOeddgydssuiZs0+qsHmypJxBPyyBw7GNfzApciaKYPPT2ZsREJleqJievcfYcRdWmozko2uG45wN4frzU8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9c1a21c3f9ff6fcc94c16191544e027ecc76db4c842ca2b3b3459db73254420f" Description="" Url=""><as:assemblyIdentity name="MyCBT.exe" version="1.0.0.0" publicKeyToken="70b8e6a571b0be5e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-9UGU5IQ\Absam</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>YJNkfg6TcAJCVldtQt1dHm6fk6ZC8GLqtlRCt+U15+g=</DigestValue></Reference></SignedInfo><SignatureValue>j+VXbZ2w1HdX5rnX6PIfQu/wt29prqor7pqwFCWnO4DTOMOxODRskRh5lSw5fnEo2jmTd5oiXYOvwAx3oLKzl2psSg7ZDm+iz0hEN5CMvLRZS2y7O32oKp1BwfcQ7kPjR3rsAGZQWUs+ls+LClsBFfdu1OJZxng6Fm5cB5u+UGU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nDhQNcb47p3+fcFywwD0JTQ2kd2hryARG6WCZsC2zFON5hFyfXe93qzpJMOYx+b+zBQqzDev5lo5ty8YGOctstUVlOeddgydssuiZs0+qsHmypJxBPyyBw7GNfzApciaKYPPT2ZsREJleqJievcfYcRdWmozko2uG45wN4frzU8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQel6kQNHwxaNDGjIW+PtHxjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADkAVQBHAFUANQBJAFEAXABBAGIAcwBhAG0wHhcNMjEwNjE2MjEyNjAwWhcNMjIwNjE3MDMyNjAwWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADkAVQBHAFUANQBJAFEAXABBAGIAcwBhAG0wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJw4UDXG+O6d/n3BcsMA9CU0NpHdoa8gERulgmbAtsxTjeYRcn13vd6s6STDmMfm/swUKsw3r+ZaObcvGBjnLbLVFZTnnXYMnbLLombNPqrB5sqScQT8sgcOxjX8wKXImimDz09mbERCZXqiYnr3H2HEXVpqM5KNrhuOcDeH681PAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAcOFD7YBHlbc+PNAWK3Bh2fk5Ulb/kKRc1OkxDIhrlOI4o2UhMFdXA3LwXYAd3G8ZijyZS5z/Ga1wC4AGjrengtppVpZ+PL+udRJ1pL/mAtxiXg3gOlVvgnQhPcqluQ7Gh6IH6PamlddfVRNFcWvbN/2Ud3Jo4ICfM4UlBoRSD84=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

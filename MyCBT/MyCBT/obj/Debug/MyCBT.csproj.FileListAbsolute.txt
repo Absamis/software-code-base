@@ -1,0 +1,15 @@
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\bin\Debug\MyCBT.exe.config
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.csprojResolveAssemblyReference.cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.App.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.Properties.Resources.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.csproj.GenerateResource.Cache
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.splash_screen.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.splash1.resources
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\bin\Debug\MyCBT.exe
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\bin\Debug\MyCBT.pdb
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.exe
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.pdb
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\bin\Debug\MyCBT.exe.manifest
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\bin\Debug\MyCBT.application
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.exe.manifest
+C:\Users\Absam\Documents\Visual Studio 2015\Projects\MyCBT\MyCBT\obj\Debug\MyCBT.application
